@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+! Title: RobloxADList
+! Last modified: 08 Dic 2017 23:30 MTN
+! Expires: Never
+! Homepage: about:blank
+||roblox.com###\33 238363637353338
+||roblox.com##.GPTAd.skyscraper
+||roblox.com##.ad-annotations
+||roblox.com###Skyscraper-Abp-Left
+||roblox.com##.abp.abp-container.left-abp
+||roblox.com###Skyscraper-Abp-Right
+||roblox.com##.abp.abp-container.right-abp
+||roblox.com##.abp-spacer
+||roblox.com##.abp.in-game-search-ad.dynamic-ad.ad-order-even
+||roblox.com##.abp.in-game-search-ad.dynamic-ad.ad-order-odd
+||roblox.com###\33 332373333353534
+||roblox.com##.GPTAd.banner
+||roblox.com###Leaderboard-Abp
+||roblox.com##.abp.leaderboard-abp
